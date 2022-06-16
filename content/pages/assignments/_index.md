@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This contains the instructions for the assignments including blog posts
+  and essays.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: 063c38bc-32f6-4a8c-f40d-7c97da289b52
 ---
 
-For all papers, keep in mind these [writing tips]({{< baseurl >}}/pages/assignments/writing-tips) and [grading checklist (PDF)]({{< baseurl >}}/resources/mitsts_032s18gradingchecklist).
+For all papers, keep in mind these {{% resource_link 70e5a6b6-5130-6f26-eaae-7079bd7cc2e9 "writing tips" %}} and {{% resource_link 12405c2e-5b1e-5570-b2ae-a5da667800ab "grading checklist (PDF)" %}}.
 
 Blog Posts
 ----------

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This contains a series of writing tips for a good paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
