@@ -13,6 +13,7 @@ image_metadata:
     on Flickr.
   image-alt: Sun beginning to rise over salt flats.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-032s18-th.jpeg
