@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This contains a series of writing tips for a good paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 063c38bc-32f6-4a8c-f40d-7c97da289b52
 title: Writing Tips
 uid: 70e5a6b6-5130-6f26-eaae-7079bd7cc2e9
