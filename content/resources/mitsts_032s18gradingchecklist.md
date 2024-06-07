@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/12405c2e5b1e5570b2aea5da667800ab_MITSTS_032S18GradingChecklist.pdf
+file_size: 139620
 file_type: application/pdf
 learning_resource_types:
 - Assignments
