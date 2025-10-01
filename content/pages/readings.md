@@ -43,13 +43,13 @@ No assigned readings
 {{< tdopen >}}
 
 
-Pretty, Jules, Andrew Ball, et al. "[Introduction to Environment and Society](http://dx.doi.org/10.4135/9781848607873.n1)." Chapter 1 in _The Sage Handbook of Environment and Society_. Sage Publications, 2007. ISBN: 9781412918435
+Pretty, Jules, Andrew Ball, et al. "{{% resource_link "10099fdb-eafd-46d8-8ae9-4a7f162d1244" "Introduction to Environment and Society" %}}." Chapter 1 in _The Sage Handbook of Environment and Society_. Sage Publications, 2007. ISBN: 9781412918435
 
-World Economic Forum. "[Beyond the Anthropocene | Johan Rockstrom](https://www.youtube.com/watch?v=V9ETiSaxyfk)." Feb. 14, 2017. YouTube.
+World Economic Forum. "{{% resource_link "22c9ec5b-5b1c-49ba-83be-895ea8c3457b" "Beyond the Anthropocene | Johan Rockstrom" %}}." Feb. 14, 2017. YouTube.
 
 _Recommended_:
 
-Benson, Michael. "[Gorgeous Glimpses of Calamity](https://www.nytimes.com/2013/08/18/opinion/sunday/gorgeous-glimpses-of-calamity.html?pagewanted=all)." _New York Times_. Aug. 16, 2013.
+Benson, Michael. "{{% resource_link "c15fe141-8bdb-4012-a208-c173492fdb2b" "Gorgeous Glimpses of Calamity" %}}." _New York Times_. Aug. 16, 2013.
 
 
 {{< tdclose >}}
@@ -68,9 +68,9 @@ Benson, Michael. "[Gorgeous Glimpses of Calamity](https://www.nytimes.com/2013/0
 {{< tdopen >}}
 
 
-Biggs, Eloise, Elanor Bruce, et al. "[Sustainable Development and the Water-Energy-Food Nexus: A Perspective on Livelihoods](https://doi.org/10.1016/j.envsci.2015.08.002)." _Envronmental Science & Policy_ 54 (2015): 389–397.
+Biggs, Eloise, Elanor Bruce, et al. "{{% resource_link "e29d8e23-8170-4479-bd42-a86a85cd2ef3" "Sustainable Development and the Water-Energy-Food Nexus: A Perspective on Livelihoods" %}}." _Envronmental Science & Policy_ 54 (2015): 389–397.
 
-Paskal, Cleo. _[The Vulnerability of Energy Infrastructure to Environmental Change](https://www.chathamhouse.org/publications/papers/view/109043#)_. Chatham House, 2009.
+Paskal, Cleo. _{{% resource_link "fe1d32ab-dfc9-49c3-bd6f-ca761d893b08" "The Vulnerability of Energy Infrastructure to Environmental Change" %}}_. Chatham House, 2009.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Paskal, Cleo. _[The Vulnerability of Energy Infrastructure to Environmental Chan
 {{< tdopen >}}
 
 
-Taylor, Peter Leigh and David A. Sonnenfeld. "[Water Crises and Institutions: Inventing and Reinventing Governance in an Era of Uncertainty](https://doi.org/10.1080/08941920.2017.1274208)." _Society & Natural Resources_ 30, no. 4 (2017): 395–403.
+Taylor, Peter Leigh and David A. Sonnenfeld. "{{% resource_link "075519a1-3a95-46bf-83ce-8517a134ada1" "Water Crises and Institutions: Inventing and Reinventing Governance in an Era of Uncertainty" %}}." _Society & Natural Resources_ 30, no. 4 (2017): 395–403.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262034524) Davis, Diana. _[The Arid Lands: History, Power, Knowledge](https://mitpress.mit.edu/books/arid-lands)_. MIT Press, 2016. Chapter 1. ISBN: 9780262034524
+{{% resource_link "c523fe02-e828-4923-b8f1-5dcf3232234d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Davis, Diana. _{{% resource_link "9e1c692b-6c80-4346-b0df-164e20ad883c" "The Arid Lands: History, Power, Knowledge" %}}_. MIT Press, 2016. Chapter 1. ISBN: 9780262034524
 
 
 {{< tdclose >}}
@@ -104,13 +104,13 @@ Taylor, Peter Leigh and David A. Sonnenfeld. "[Water Crises and Institutions: In
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262693684) Steinberg, Paul and Stacy VanDeever. _[Comparative Environmental Politics: Theory, Practice, and Prospects](https://mitpress.mit.edu/books/comparative-environmental-politics)_. MIT Press, 2012. Chapters 1–3.  ISBN: 9780262693684
+{{% resource_link "7917170d-16d7-4453-be0a-a3e74f0e354c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Steinberg, Paul and Stacy VanDeever. _{{% resource_link "fa243071-9497-4049-b775-9c33a1a08e41" "Comparative Environmental Politics: Theory, Practice, and Prospects" %}}_. MIT Press, 2012. Chapters 1–3.  ISBN: 9780262693684
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692663) Steinberg, Paul. _[Environmental Leadership in Developing Countries: Transnational Relations and Biodiversity Policy in Costa Rica and Bolivia](https://mitpress.mit.edu/books/environmental-leadership-developing-countries)_. MIT Press, 2001. Chapter 1–2. ISBN: 9780262692663
+{{% resource_link "af3a3804-788e-4324-a970-a54ea64c519c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Steinberg, Paul. _{{% resource_link "e57cb499-d724-463b-9725-ca491efbe181" "Environmental Leadership in Developing Countries: Transnational Relations and Biodiversity Policy in Costa Rica and Bolivia" %}}_. MIT Press, 2001. Chapter 1–2. ISBN: 9780262692663
 
 _Recommended_:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262525817) Duit, Andreas. _[State and Environment: The Comparative Study of Environmental Governance](https://mitpress.mit.edu/books/state-and-environment)_. MIT Press, 2014. ISBN: 9780262525817
+{{% resource_link "14f837aa-25a9-4e57-9b40-84d8cf7895b9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Duit, Andreas. _{{% resource_link "daed858f-d396-47b2-88dd-28c145a87a9f" "State and Environment: The Comparative Study of Environmental Governance" %}}_. MIT Press, 2014. ISBN: 9780262525817
 
 
 {{< tdclose >}}
@@ -217,9 +217,9 @@ No assigned readings
 
 Tucker, Richard. "Containing Communism by Impounding Rivers: American Strategic Interest and the Global Spread of High Dams in the Early Cold War." In _Environmental Histories of the Cold War_. Edited by J.R. McNeil and Corinna Unger. Cambridge University Press, 2013. ISBN: 9781107694353
 
-Obeng, Letitia. "[Should Dams Be Built? The Volta Lake Example](http://www.jstor.org/stable/4312243)." _Ambio_ 6, no. 1 (1977): 46–50.
+Obeng, Letitia. "{{% resource_link "26b35075-96f5-4325-be74-76547c12fc90" "Should Dams Be Built? The Volta Lake Example" %}}." _Ambio_ 6, no. 1 (1977): 46–50.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262526203) Tironi, Manuel, et al. "[Neoliberalism as Political Technology: Expertise, Energy, and Democracy in Chile](https://mitpress.mit.edu/books/beyond-imported-magic)." In _Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America._ Edited by Eden Medina et al., MIT Press, 2014, pp. 305–330. ISBN: 9780262526203
+{{% resource_link "d343c733-6752-466c-b418-4436885cb230" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tironi, Manuel, et al. "{{% resource_link "33758609-c7a4-44e7-b078-403c659e2d3a" "Neoliberalism as Political Technology: Expertise, Energy, and Democracy in Chile" %}}." In _Beyond Imported Magic: Essays on Science, Technology, and Society in Latin America._ Edited by Eden Medina et al., MIT Press, 2014, pp. 305–330. ISBN: 9780262526203
 
 
 {{< tdclose >}}
@@ -271,9 +271,9 @@ No assigned readings
 {{< tdopen >}}
 
 
-Bauer, Carl. "[Bringing Water Markets Down to Earth: The Political Economy of Water Rights in Chile, 1976–95](https://doi.org/10.1016/S0305-750X(96)00128-3)." _World Development_ 25, no. 5 (1997): 639–656.
+Bauer, Carl. "{{% resource_link "f7a998c5-0545-45f3-ba04-1cce60187c73" "Bringing Water Markets Down to Earth: The Political Economy of Water Rights in Chile, 1976–95" %}}." _World Development_ 25, no. 5 (1997): 639–656.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262029247) Schneider, Friedrich, Andrea Kolllman, and Johannes Reichl, eds. _[Politcal Economy and Instruments of Environmental Politics](https://mitpress.mit.edu/books/political-economy-and-instruments-environmental-politics)_. MIT Press, 2015. Introduction and Chapter 2. ISBN:  9780262029247
+{{% resource_link "9fe1d6e2-c1fd-47e1-84cf-701788eebf34" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Schneider, Friedrich, Andrea Kolllman, and Johannes Reichl, eds. _{{% resource_link "3c05235f-997e-43e0-b0a7-5aa31de86c32" "Politcal Economy and Instruments of Environmental Politics" %}}_. MIT Press, 2015. Introduction and Chapter 2. ISBN:  9780262029247
 
 
 {{< tdclose >}}
@@ -305,13 +305,13 @@ Layzer, Judith. "The Nation Tackles Pollution: The Environmental Protection Agen
 {{< tdopen >}}
 
 
-Naiga, Resty, Marianne Penker, and Karl Hogl. "[Women's Crucial Role in Collective Operation and Maintenance of Drinking Water Infrastructure in Rural Uganda](https://doi.org/10.1080/08941920.2016.1274460)." _Society & Natural Resources_ 30, no. 4 (2017), 506–520.
+Naiga, Resty, Marianne Penker, and Karl Hogl. "{{% resource_link "bef85a55-44ba-4f7a-8160-de5536bb47b5" "Women's Crucial Role in Collective Operation and Maintenance of Drinking Water Infrastructure in Rural Uganda" %}}." _Society & Natural Resources_ 30, no. 4 (2017), 506–520.
 
 Cruz-Torres, Maria Luz and Pamela McElwee eds. _Gender and Sustainability: Lessons from Asia and Latin America_. University of Arizona Press, 2017. Chapters 1, 5, and 7. ISBN: 9780816537952
 
 _Recommended:_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262519571) Lejano, Raul, Mrill Ingram, and Helen Ingram. _[The Power of Narrative in Environmental Networks](http://mitpress.mit.edu/books/power-narrative-environmental-networks)._ MIT Press, 2013. Chapters 1 and 7. ISBN:  9780262519571
+{{% resource_link "f809bd8f-6cfb-4ab8-b225-90433c66651b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lejano, Raul, Mrill Ingram, and Helen Ingram. _{{% resource_link "26fcf0d1-43bb-481b-bd11-af62221b65cc" "The Power of Narrative in Environmental Networks" %}}._ MIT Press, 2013. Chapters 1 and 7. ISBN:  9780262519571
 
 
 {{< tdclose >}}
@@ -339,13 +339,13 @@ No assigned reading
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517874) Bryner, Gary and Robert Duffy. _[Integrating Climate, Energy, and Air Pollution Policies](http://mitpress.mit.edu/books/integrating-climate-energy-and-air-pollution-policies)_. MIT Press, 2012. Chapters 1, 2, and 7. ISBN: 9780262517874
+{{% resource_link "fed8c41a-7914-4738-97a2-8ae284aaf429" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bryner, Gary and Robert Duffy. _{{% resource_link "7f1b5e9d-a9a2-40fc-bff8-3cdbe34c3dec" "Integrating Climate, Energy, and Air Pollution Policies" %}}_. MIT Press, 2012. Chapters 1, 2, and 7. ISBN: 9780262517874
 
 Jones, Toby. _Desert Kingdom: How Oil and Water Forged Modern Saudi Arabia_. Harvard University Press, 2010. Chapter 1. ISBN: 9780674049857
 
 _Recommended_: 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262028233) Pollin, Robert. _[Greening the Global Economy](https://mitpress.mit.edu/books/greening-global-economy)_. MIT Press, 2015. Chapters 1, 3, 4, and 8. ISBN:  9780262028233
+{{% resource_link "c94928f9-100f-4c65-80b6-cf6f1c5c37a5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Pollin, Robert. _{{% resource_link "c45a4ce0-00bd-4d3b-9696-f5a0742f3910" "Greening the Global Economy" %}}_. MIT Press, 2015. Chapters 1, 3, 4, and 8. ISBN:  9780262028233
 
 
 {{< tdclose >}}
@@ -364,9 +364,9 @@ _Recommended_: 
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514378) Ascher, William, Toddi Steelman, and Robert Healy. _[Knowledge and Environmental Policy: Re-Imagining the Boundaries of Science and Politics](http://mitpress.mit.edu/books/knowledge-and-environmental-policy)_. MIT Press, 2010. Chapters 1, 5, and 7. ISBN: 9780262514378
+{{% resource_link "75d19c95-6742-4e6e-973c-f9e4c3dc67e6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Ascher, William, Toddi Steelman, and Robert Healy. _{{% resource_link "0520a509-05a3-4ae6-b0a3-57b1e86145fb" "Knowledge and Environmental Policy: Re-Imagining the Boundaries of Science and Politics" %}}_. MIT Press, 2010. Chapters 1, 5, and 7. ISBN: 9780262514378
 
-Norman, Emma. "[Standing Up for Inherent Rights; The Role of Indigenous-led Activism in Protecting Sacred Waters and Ways of Life](https://doi.org/10.1080/08941920.2016.1274459)." _Society & Natural Resources_ 30, no. 4 (2017): 537–553.
+Norman, Emma. "{{% resource_link "0de404e1-2401-4270-92c2-7fd48ce0a6ac" "Standing Up for Inherent Rights; The Role of Indigenous-led Activism in Protecting Sacred Waters and Ways of Life" %}}." _Society & Natural Resources_ 30, no. 4 (2017): 537–553.
 
 
 {{< tdclose >}}
@@ -379,15 +379,15 @@ Norman, Emma. "[Standing Up for Inherent Rights; The Role of Indigenous-led Acti
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262731799) Whiteside, Kerry. _[Precautionary Politics: Principle and Practice in Confronting Environmental Risk](https://mitpress.mit.edu/books/precautionary-politics)_. MIT Press, 2006. Introduction and Chapters 1 and 3. ISBN: 9780262731799
+{{% resource_link "f8209274-5f13-4bb3-aab2-ec143efb036e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Whiteside, Kerry. _{{% resource_link "c010dc36-3ea3-4b8b-bdd6-fda19dedd9ed" "Precautionary Politics: Principle and Practice in Confronting Environmental Risk" %}}_. MIT Press, 2006. Introduction and Chapters 1 and 3. ISBN: 9780262731799
 
-Hirsch, Richard and Benjamin Sovacool. "[Wind Turbines and Invisible Technology: Unarticulated Reasons for Local Opposition to Wind Energy](https://vtechworks.lib.vt.edu/handle/10919/25478)." _Technology and Culture_ 54, no. 4 (2013): 705–734. 
+Hirsch, Richard and Benjamin Sovacool. "{{% resource_link "2a01dd80-593d-46b5-916e-2409f42e1fed" "Wind Turbines and Invisible Technology: Unarticulated Reasons for Local Opposition to Wind Energy" %}}." _Technology and Culture_ 54, no. 4 (2013): 705–734. 
 
 _Recommended_: 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262633369) Mitchell, Ronald, William Clark, et al. eds. _[Global Environmental Assessments: Information and Influence](https://mitpress.mit.edu/books/global-environmental-assessments)_. MIT Press, 2006. Chapters 1, 4, and 8–10.  ISBN: 9780262633369
+{{% resource_link "832726dc-7c7d-410c-82db-4c6c627b95b0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, Ronald, William Clark, et al. eds. _{{% resource_link "c64144f2-c14e-4843-b9ca-93aa9bde8504" "Global Environmental Assessments: Information and Influence" %}}_. MIT Press, 2006. Chapters 1, 4, and 8–10.  ISBN: 9780262633369
 
-Supran, Geoffrey and Naoimi Oreskes. "[Opinion: What Exxon Mobile Didn't Say About Climate Change](https://www.nytimes.com/2017/08/22/opinion/exxon-climate-change-.html?mcubz=0)." _New York Times_, Aug. 22. 2017.
+Supran, Geoffrey and Naoimi Oreskes. "{{% resource_link "d9871f2f-eae1-4ec7-806a-5846c1c4af8f" "Opinion: What Exxon Mobile Didn't Say About Climate Change" %}}." _New York Times_, Aug. 22. 2017.
 
 
 {{< tdclose >}}
@@ -412,7 +412,7 @@ Cole, Luke and Sheila Foster. _From the Ground Up: Environmental Racism and the 
 
 _Recommended_:
 
-Bullard, Robert and Glenn Johnson. "[Environmental Justice: Grassroots Activism and its Impact on Public Policy Decision Making](https://doi.org/10.1111/0022-4537.00184)." _Journal of Social Issues_ 56, no. 3 (2000), 555–578.
+Bullard, Robert and Glenn Johnson. "{{% resource_link "8ba3e793-939c-4844-bb58-d892faab62eb" "Environmental Justice: Grassroots Activism and its Impact on Public Policy Decision Making" %}}." _Journal of Social Issues_ 56, no. 3 (2000), 555–578.
 
 
 {{< tdclose >}}
@@ -425,11 +425,11 @@ Bullard, Robert and Glenn Johnson. "[Environmental Justice: Grassroots Activism 
 {{< tdopen >}}
 
 
-Romano, Sarah. "[Building Capacities for Sustainable Water Governance at the Grassroots: "Organic Empowerment" and its Policy Implications in Nicaragua](https://doi.org/10.1080/08941920.2016.1273413)." _Society & Natural Resources_ 30, no. 4 (2017), 471–487.
+Romano, Sarah. "{{% resource_link "00cada43-7a59-440c-bb08-c5d7847cb61a" "Building Capacities for Sustainable Water Governance at the Grassroots: \"Organic Empowerment\" and its Policy Implications in Nicaragua" %}}." _Society & Natural Resources_ 30, no. 4 (2017), 471–487.
 
-Finley-Brook, Mary and Erica Holloman. "[Empowering Energy Justice](https://doi.org/10.3390/ijerph13090926)." _International Journal of Environmental Research and Public Health_ 13, no. 9 (2016): 926.
+Finley-Brook, Mary and Erica Holloman. "{{% resource_link "d609a7eb-e047-4d22-8571-e20d0bdfcac5" "Empowering Energy Justice" %}}." _International Journal of Environmental Research and Public Health_ 13, no. 9 (2016): 926.
 
-De Onis, Catalina. "[Energy Colonialism Powers the Ongoing Unnatural Disaster in Puerto Rico](https://doi.org/10.3389/fcomm.2018.00002)." _Front. Comm._ 3 (2018).
+De Onis, Catalina. "{{% resource_link "e4bda7aa-8dbe-43cc-b2bf-0261e63096c1" "Energy Colonialism Powers the Ongoing Unnatural Disaster in Puerto Rico" %}}." _Front. Comm._ 3 (2018).
 
 
 {{< tdclose >}}
