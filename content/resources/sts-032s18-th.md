@@ -8,10 +8,10 @@ image_metadata:
   caption: Salar de Uyuni, Bolivia. The world's biggest single deposit of lithium
     in one of the driest regions in Latin America. Lithium-ion batteries are critical
     to computers and to the growing industry of electric cars in Asia and the United
-    States. Image by [Dimitry B.](https://www.flickr.com/photos/ru_boff/14863560864/in/photostream/)
-    on Flickr.
-  credit: Image by [Dimitry B.](https://www.flickr.com/photos/ru_boff/14863560864/in/photostream/)
-    on Flickr.
+    States. Image by {{% resource_link "4cc110a1-88b8-4026-a611-ca65976d440b" "Dimitry
+    B." %}} on Flickr.
+  credit: Image by {{% resource_link "4cc110a1-88b8-4026-a611-ca65976d440b" "Dimitry
+    B." %}} on Flickr.
   image-alt: Sun beginning to rise over salt flats.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
