@@ -99,6 +99,6 @@ Policies & Meeting Format
 -------------------------
 
 *   Sessions will combine lecture, discussion, and group analysis of written and audiovisual materials.
-*   This is a {{% resource_link "5b508499-9ad7-4668-99e1-db20c6826ea7" "writing and oral communication intensive class" %}} (CI-H). It will include writing assignments and the creation of digital communication tools such as blog posts, podcasts, and infographics.
+*   This is a [writing and oral communication intensive class](http://web.mit.edu/commreq/cih.html) (CI-H). It will include writing assignments and the creation of digital communication tools such as blog posts, podcasts, and infographics.
 *   Attendance and active participation are required. Participation grade includes reading assigned materials and critically engaging with course material. Participation in blog discussions are part of your final participation grade.
 *   Laptops are allowed but for only classroom purposes.
